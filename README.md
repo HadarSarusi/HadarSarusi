@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="hadar.jpg" width="180" style="border-radius:50%"/>   
+  <img src="HS.jpeg" width="180" style="border-radius:50%"/>   
 </p>
 
 <p align="center">
