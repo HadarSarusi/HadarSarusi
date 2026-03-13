@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="gitHubPic.jpeg" width="500"/>   
+  <img src="HS.jpeg" width="500"/>   
 </p>
 
 <p align="center">
@@ -91,7 +91,7 @@ My goal is to combine **software engineering principles with machine learning te
 ## 🤝 Let's Connect 🤝
 
 <p align="center">
-  <img src="HS.jpeg"/>   
+  <img src= "gitHubPic.jpeg"/>   
 </p>
 
 
