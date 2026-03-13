@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="HS.jpeg" width="180" style="border-radius:50%"/>   
+  <img src="gitHubPic.jpeg" width="180"/>   
 </p>
 
 <p align="center">
@@ -89,6 +89,11 @@ My goal is to combine **software engineering principles with machine learning te
 ---
 
 ## 🤝 Let's Connect 🤝
+
+<p align="center">
+  <img src="HS.jpeg"/>   
+</p>
+
 
 <p align="center">
   <a href="https://github.com/HadarSarusi">
