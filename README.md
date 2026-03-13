@@ -18,7 +18,6 @@ Backend Developer | AI Enthusiast | System Builder ⚙️🤖
   </a>
   <img src="https://img.shields.io/github/stars/HadarSarusi?label=Total%20Stars&style=for-the-badge"/>
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HadarSarusi&label=Profile+Views&color=10125c&style=for-the-badge" />
 </p>
